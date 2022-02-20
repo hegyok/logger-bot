@@ -1,0 +1,8 @@
+{
+	"ipcSocket": 9999,
+	"intents": [
+		"GUILDS",
+		"GUILD_MESSAGES",
+		"GUILD_MEMBERS"
+	]
+}
